@@ -3,4 +3,5 @@ Format Storage Advanced allows you to format removable storage to exFAT and FAT3
 Please suggest features.
 
 Download zipped binary file
+[a relative link](markdown_file.md)
 [Download](builds/Format Storage Advanced.zip)
