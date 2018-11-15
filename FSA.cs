@@ -28,6 +28,12 @@ namespace Format_Storage_Advanced
         {
             Application.Exit();
         }
+        private void openAboutPage_Click(object sender, EventArgs e)
+        {
+            AboutBox about = new AboutBox();
+            about.Show();
+
+        }
 
         private void startFormat_Click(object sender, EventArgs e)
         {
